@@ -59,7 +59,7 @@ const DATA = {
   kid: [
     {
       id: "xmtzqKT-Yto",
-      title: "Childhood Rituals — Part I",
+      title: "Barhao — Part I",
       desc: "Welcoming the first child home with traditional blessings.",
       date: "Katha - 1",
       duration: "1h",
@@ -67,7 +67,7 @@ const DATA = {
     },
     {
       id: "lZeKoUlL7LQ",
-      title: "Childhood Rituals — Part II",
+      title: "Barhao — Part II",
       desc: "Family celebrations and the naming ceremony.",
       date: "Katha - 2",
       duration: "40m",
